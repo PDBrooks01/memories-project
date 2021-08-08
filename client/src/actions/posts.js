@@ -1,4 +1,4 @@
-import * as api from '../api' //this means we will be able to use everything from the api
+import * as api from '../api/index' //this means we will be able to use everything from the api
 
 //Action Creators
 
